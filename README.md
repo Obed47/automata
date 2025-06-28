@@ -36,3 +36,13 @@ This repository contains two implementations:
 ```bash
 cd rust
 cargo run
+
+```
+## Running the lua version
+###Prerequisites
+install lua with sudo apt install lua5.3
+
+###Build and run
+```bash
+cd lua
+lua sr1.lua
