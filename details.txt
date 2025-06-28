@@ -1,0 +1,8 @@
+sudo apt update
+sudo apt install lua5.x  # Replace 'x' with your preferred version (e.g., lua5.3, lua5.4)
+install 5.3
+run the lua code with lua filename.lua
+
+
+for rust install environment together with cargo and run cargo run to install dependencies listed in the .toml file
+the code here works
